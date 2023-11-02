@@ -1,4 +1,4 @@
-![image](https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/8f644fc4-3dea-4c44-8455-92d06bd9bdf2)![image](https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/47fbedaa-7afd-4d98-9ed6-2587d65ce6c4)# Phillips-Haleena-Portfolio
+#Portfolio
 This is my public portfolio for my Telling Stories with Data class at CMU
 
 # About Me
