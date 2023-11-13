@@ -8,7 +8,7 @@ Hi, my name is Haleena Phillips and I am a second year Master of Public Policy a
 At the completion of this course, I hope to learn how to effectively tell stories with the data I display as opposed to showing data that I have obtained. Once I graduate, I hope to move back to Washington, DC and do federal work. 
 ![Washington, DC](https://www.rd.com/wp-content/uploads/2020/07/GettyImages-975466384-e1595621246508.jpg)
 
-# Portfolio
+# Assignment Portfolio
 Here is where all my cool work will go, you should follow along. The assignments are as listed below
 * [General Government Debt Bar Graph](https://haleena426.github.io/Phillips-Haleena-Portfolio/Govdebtgraph.html)
 * [General Government Debt Heat Map](https://haleena426.github.io/Phillips-Haleena-Portfolio/Govdebtratio.html)
