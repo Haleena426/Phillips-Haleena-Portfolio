@@ -9,3 +9,6 @@ var scriptElement = document.createElement('script');
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+
+Canada, Germany, Spain, France, The United Kingdom, The Netherlands, and The United States are countries that support and utilized funds to train armed personel for Operation Juniper. This graph shows how this assistance impacted their Debt to GDP Ratio 
