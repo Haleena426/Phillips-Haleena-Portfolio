@@ -10,9 +10,7 @@ At the completion of this course, I hope to learn how to effectively tell storie
 
 # Assignment Portfolio
 Here is where all my cool work will go, you should follow along. The assignments are as listed below
-* [General Government Debt Bar Graph](https://haleena426.github.io/Phillips-Haleena-Portfolio/Govdebtgraph.html)
-* [General Government Debt Heat Map](https://haleena426.github.io/Phillips-Haleena-Portfolio/Govdebtratio.html)
-* [Operation Juniper Shield Government Line Chart](https://haleena426.github.io/Phillips-Haleena-Portfolio/OperationJuniper.html)
-* [Assignment 3 & 4: Critique By Design with Tableau (Makeover Monday)](
+* [Assignment 2: Visualizing Government Debt with Tableau](https://haleena426.github.io/Phillips-Haleena-Portfolio/assignment2.html)
+* [Assignment 3 & 4: Critique By Design with Tableau (Makeover Monday)](https://haleena426.github.io/Phillips-Haleena-Portfolio/methodofvis.html)
 * Final Project
 * & so much more!
