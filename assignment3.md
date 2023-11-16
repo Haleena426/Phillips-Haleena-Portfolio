@@ -52,8 +52,12 @@ I then recieved feedback from two women around the ages of 23-25. Both of these 
   1. Maybe use a different color palette because red/pink and green is not accessible for colorblindness
   2. Maybe say this x is unit cost per 30 grams lol because that confused me i guess
 
+# Incorporating Feedback
+
 This feedback was extemely helpful in providing my final draft of my visualization. Thank you to those who participated. It can be seen below. 
 
 *insert tableau photo
+
+I was able to change the colors to be more colorblind friendly, turn the graph by changing the axes, and providing a more in depth description. The numbers are made up and should not be taken at face value. 
 
 [Get Back to the Home Page](https://haleena426.github.io/Phillips-Haleena-Portfolio/)
