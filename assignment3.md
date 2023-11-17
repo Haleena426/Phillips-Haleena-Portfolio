@@ -58,6 +58,6 @@ This feedback was extemely helpful in providing my final draft of my visualizati
 
 *insert tableau photo
 
-I was able to change the colors to be more colorblind friendly, turn the graph by changing the axes, and providing a more in depth description. The numbers are made up and should not be taken at face value. 
+I was able to change the colors to be more colorblind friendly, turn the graph by changing the axes, and providing a more in depth description. I removed any confusing acronyms from the previous graphic such as WPI and took advice from my critquer to get more information from the article. The numbers should not be taken at face value. 
 
 [Get Back to the Home Page](https://haleena426.github.io/Phillips-Haleena-Portfolio/)
