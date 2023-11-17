@@ -68,6 +68,7 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
 
+
 I was able to change the colors to be more colorblind friendly, turn the graph by changing the axes, and providing a more in depth description. I removed any confusing acronyms from the previous graphic such as WPI and took advice from my critquer to get more information from the article. The numbers should not be taken at face value. 
 
 [Get Back to the Home Page](https://haleena426.github.io/Phillips-Haleena-Portfolio/)
