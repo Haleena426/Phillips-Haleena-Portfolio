@@ -12,5 +12,5 @@ At the completion of this course, I hope to learn how to effectively tell storie
 Here is where all my cool work will go, you should follow along. The assignments are as listed below
 * [Assignment 2: Visualizing Government Debt with Tableau](https://haleena426.github.io/Phillips-Haleena-Portfolio/assignment2.html)
 * [Assignment 3 & 4: Critique By Design with Tableau (Makeover Monday)](https://haleena426.github.io/Phillips-Haleena-Portfolio/assignment3.html)
-* Final Project
+* [Final Project Part 1](https://haleena426.github.io/Phillips-Haleena-Portfolio/final_project_Haleena.html)
 * & so much more!
