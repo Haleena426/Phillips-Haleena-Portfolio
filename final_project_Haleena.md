@@ -4,21 +4,29 @@ My topic for this project surrounds drug shortages in the United States. Before 
 
 **Synopsis of Topic**
 
-For this part of the outline, I chose to come up with an engaging title that would want the audience to learn more about my topic. Though I wasn't able to solidify a title so early in the process, I settled upon these two titles. **The United States reliance on international drug manufacturers only hurts itself ** and **The United States shooting itself in the foot by leaning too heavily on international drugmakers for its medicine fix.**
+The next section addressed the audience and what the would expect when they were to take in the graphics that I have to display. I have chosen my intended audience to be everyday citizens who are impacted by the lack of prescription drugs due to America’s reliance on intnrational manufacturers. 
 
-The next section had
 **As a reader, I want ____ so that I can_____**
 
-As a reader, I want to explore the different perspectives and implications on manufacturer reliance so that I can make my own well informed opinion 
+I intend the audience to grasp this below.
 
-I can do this by_____
+As a reader, I want to explore the different perspectives and implications on manufacturer reliance so that I can make my own well informed opinion. 
+
+This section is self explanatory as it comes right after the wants. The way the audience member is able to act based upon their wants can be shown below.. 
+
+**I can do this by_____**
 
 I can do this by maintaining open communication with my healthcare provider so that I can stay informed and be prepared for any shortages. 
 
-How do I tell the story?
+**How do I tell the story?**
 
-*think of the line chart from class with the emotions* 
-Info, conflict, resolution, call to action for example (do not have to follow)
-Y axis should be (bottom) sad, medium (alright), top (happy)
+I decided to initially showcase this example by providing the info, conflict, and call to action. In class, there was a resolution aspect but I decided to tie that in with the call to action. The Y axis represents three smiley faces in which they represent: (bottom) sad, medium (alright), top (happy). The way I intertwined my story can be shown below. 
 
-Start with - good, the U. S has the best healthcare, but we rely on a lot of other places for our drugs (small dip), usually fine (up), until its not (dip), problem (dip), implications (dip), can't do anything about the process itself (dip), but we can do something about it ****draw it out 
+![drug shortage feeling](https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/63b46ca7-b55b-45b1-a2ee-8c5df6744fed)
+
+
+**High Level Outline**
+
+Now that the outline has been shown above and the reader is able to follow along with my thought process, it is necessary to provide a higher level outline and background so that the author is well informed. 
+
+The United States has a reputation for having one of the best healthcare systems in regards to the resources and technology that we have. There are debates that critique our delivery system but that will not be the focus of this outline. With that reputation, many Americans are under the impression that they will be able to receive the care, attention, and medication that they need in order to have a high quality life. This does not take into account costs associated with these plans or socioeconomic background. Just at face value, there is an expectation that in America, the treatment is available for any abnormality that deviates from what an individual describes as healthy. 
