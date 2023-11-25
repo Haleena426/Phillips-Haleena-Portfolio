@@ -40,6 +40,10 @@ To cut costs, the United States strategically uses manufacturers internationally
 
 ** I chose this sketch to outline the first part of my story, to emphasize that the reliance on international manufacturers will be the U.S drug system’s demise. By showing a visual, the audience is able to initially have a deeper understanding of what specifically causes these shortages without going into the nitty gritty details. This graphic specifically emphasizes manufacturers as a whole which equates to 1 in a sense. By using a pie chart, I am able to exemplify this information in simple terms and break down the parts of that whole. Though I state the reliance on outside manufacturers are the demise, the pie chart them emphasizes the even smaller parts that represent the manufacturer that the U.S has no control over. Delving deeper into the sketch, I chose those colors because they were colorblind friendly and would appeal to multiple audiences. The specific colors within the coloblind friendly realm did not have any thought process. They were random. 
 
+![shoratges people](https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/7afa6ee1-c216-4b2f-9283-b0cdf592d2ed)
+
+![shoratges bar](https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/dfc633d3-205b-4b29-b69a-6c535f6d52d7)
+
 # Data 
 
 All of my data is derived from data sources linked below. https://www.iqvia.com/insights/the-iqvia-institute/reports-and-publications/reports/drug-shortages-in-the-us-2023, https://aspe.hhs.gov/reports/drug-shortages-impacts-consumer-costs#:~:text=The%20average%20drug%20shortage%20affects,ability%20to%20fill%20their%20prescriptions., 
