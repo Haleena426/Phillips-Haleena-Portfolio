@@ -46,7 +46,10 @@ All of my data is derived from data sources linked below. https://www.iqvia.com/
 https://www.ashp.org/-/media/assets/drug-shortages/docs/ASHP-2023-Drug-Shortages-Survey-Report.pdf, 
 https://www.ashp.org/drug-shortages/shortage-resources/drug-shortages-statistics?loginreturnUrl=SSOCheckOnly
 
-The way this data will be used is described through my sketches. The methodology of how the information was derived and why it was used can be found under the sketch. Overall, I chose these specific data sources because they use empirical and scientific data. These links include information that rely on surveys and 
+The way this data will be used is described through my sketches. The methodology of how the information was derived and why it was used can be found under the sketch. Overall, I chose these specific data sources because they use empirical and scientific data. These links include information that rely on surveys and studies for completion. By using this information, I am able to get the voice of those affected while having some scientific evidence to back it up. In my opinion I thought this was very valuable. 
+
+The links are from two main websites IQVIA which is a data source/ database that provides clinical data from their own research and is world renowned. For this data source, I will be using the scientific data that has clinicians report these shortages combined with data from the FDA.  I also used ASHP which is a database specifically used by pharmacists to report information. I plan to use both of these data sources to derive my information and that can be shown by my sketches that I have utilized. I would not assign one data source to each sketch but more of a combination of these two sources. 
+
 
 # Method and Medium 
 
