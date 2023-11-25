@@ -57,7 +57,9 @@ The third part of my story emphasizes national drug shortages of common drugs ov
 The final part of my graphics are the call to action section. This section will discuss how those affected by drug shortages can then utilize the knowledge of the methods clinicians have chosen to navigate drug shortages. This section is especially important as working with clinicians can help individuals plan for their future so they know what to expect when the next drug shortage comes. Ultimately, everyday citizens cannot have a large impact on how the U.S decides to manufacture drugs but they can help themselves on an individual level. This graph shows them options on how to do so.
 ![management drugs](https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/af7d075d-af1f-4fb8-bfb7-a3bb7fcec5b1)
 
+* I chose to represent my data from ASHP in the form of smaller charts because it gives more emphasis to each topic rather than having it all on a chart. I want the audience to be drawn to each circle as each option rather than just noting what clinicians are doing. I believe this graph does so. Again, no purpose in the color scheme, colors were chosen at random from the colorblind spectrum.
 
+This concludes the first draft/ part of how I envision my final project. 
 
 # Data 
 
