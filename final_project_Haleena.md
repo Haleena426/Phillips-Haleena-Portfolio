@@ -44,7 +44,10 @@ The next part of my story will illustrate how the drug shortages then impact con
 
 ![shoratges people](https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/7afa6ee1-c216-4b2f-9283-b0cdf592d2ed)
 
-* I chose this sketch to outline the second part of my story on how drug shortages disproportionately affect elderly people. This data was derived from ASHP and I decided to use the figures of people to represent this data as people are being discussed. I think it is clear, besides my lack of artistic ability, that out of the people in that age category, this amount of people are affected. I decided to use blue because when I think of medicine I think of blue and blue is also colorblind friendly, going back to my initial point of accessibility. 
+* I chose this sketch to outline the second part of my story on how drug shortages disproportionately affect elderly people. This data was derived from ASHP and I decided to use the figures of people to represent this data as people are being discussed. I think it is clear, besides my lack of artistic ability, that out of the people in that age category, this amount of people are affected. With drug shortages, elderly people are not able to fill their prescriptions which then leads to more ramifications. I decided to use blue because when I think of medicine I think of blue and blue is also colorblind friendly, going back to my initial point of accessibility. 
+
+
+The third part of my story emphasizes national drug shortages of common drugs over 5 years. As stated before with the U.S not being able to control the external factors of having international manufacturers, the U.S citizens continue to struggle. This year, up to September 2023, there is a shortage of about 129 units of drugs and this will continue to increase if the U.S does not have an actionable plan. This is then paired with a second graph of what those drugs are specifically. In this case, one graph cannot exist without the other. 
 
 ![shoratges bar](https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/dfc633d3-205b-4b29-b69a-6c535f6d52d7)
 
