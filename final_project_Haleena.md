@@ -52,7 +52,7 @@ The third part of my story emphasizes national drug shortages of common drugs ov
 ![shoratges bar](https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/dfc633d3-205b-4b29-b69a-6c535f6d52d7)
 ![top 5 drugs](https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/e304f8a7-4137-4230-84c5-c7cc4d067229)
 
-
+* I chose this sketch to outline the next part of my story on the specific types of drugs that are being shorted and the impact of these shortages over a 5 year span. I did this in order to see a bigger picture and tell a story that involved the audience maybe thinking of a grandparent who has cancer and is not able to receive chemo because of the shortage. This part gets the next section ready for the call to action aspect because this part is supposed to incite a level of rage into the audience. I chose bar graphs to represent both of these visuals because they were simple and easy to read and understand. I think this method, though basic, does not utilize a lot of knowledge which is appropriate for my intended audience of everyday citizens who take medication. Even with the focus on elderly people in the other charts, everyone grows up. This is my assumption outside of external factors. The colors were chosen at random through the colorblind theme. I do not think it is imperative to focus on the specific colors. This is also a draft and they may be subject to change. 
 ![management drugs](https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/af7d075d-af1f-4fb8-bfb7-a3bb7fcec5b1)
 
 
