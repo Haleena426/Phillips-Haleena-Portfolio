@@ -53,6 +53,9 @@ The third part of my story emphasizes national drug shortages of common drugs ov
 ![top 5 drugs](https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/e304f8a7-4137-4230-84c5-c7cc4d067229)
 
 
+![management drugs](https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/af7d075d-af1f-4fb8-bfb7-a3bb7fcec5b1)
+
+
 # Data 
 
 All of my data is derived from data sources linked below. https://www.iqvia.com/insights/the-iqvia-institute/reports-and-publications/reports/drug-shortages-in-the-us-2023, https://aspe.hhs.gov/reports/drug-shortages-impacts-consumer-costs#:~:text=The%20average%20drug%20shortage%20affects,ability%20to%20fill%20their%20prescriptions., 
