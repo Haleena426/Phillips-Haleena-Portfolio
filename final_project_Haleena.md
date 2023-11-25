@@ -50,6 +50,8 @@ The next part of my story will illustrate how the drug shortages then impact con
 The third part of my story emphasizes national drug shortages of common drugs over 5 years. As stated before with the U.S not being able to control the external factors of having international manufacturers, the U.S citizens continue to struggle. This year, up to September 2023, there is a shortage of about 129 units of drugs and this will continue to increase if the U.S does not have an actionable plan. This is then paired with a second graph of what those drugs are specifically. In this case, one graph cannot exist without the other. 
 
 ![shoratges bar](https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/dfc633d3-205b-4b29-b69a-6c535f6d52d7)
+![top 5 drugs](https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/e304f8a7-4137-4230-84c5-c7cc4d067229)
+
 
 # Data 
 
