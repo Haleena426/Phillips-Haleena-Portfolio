@@ -13,5 +13,5 @@ Here is where all my cool work will go, you should follow along. The assignments
 * [Assignment 2: Visualizing Government Debt with Tableau](https://haleena426.github.io/Phillips-Haleena-Portfolio/assignment2.html)
 * [Assignment 3 & 4: Critique By Design with Tableau (Makeover Monday)](https://haleena426.github.io/Phillips-Haleena-Portfolio/assignment3.html)
 * [Final Project Part 1](https://haleena426.github.io/Phillips-Haleena-Portfolio/final_project_Haleena.html)
-* [Final Project Part 2]
+* [Final Project Part 2](https://haleena426.github.io/Phillips-Haleena-Portfolio/final_project_Haleena_2.html)
 * & so much more!
