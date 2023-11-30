@@ -11,18 +11,18 @@ I cut out many visualizations from part one and tried to get a gist of the overa
 I utilized class time to work out my initial interviews to really draw in my scope better. I showed my initial draft of my data to my classmates and this acted as my first rounds of feedback that I would then take to finalize my draft. The participants were 3 individuals - 2 women and 1 man who were all Masters students at Carnegie Mellon University: Heinz College. They were all within the same age range from 23-27 and were all completing the Telling Stories with Data class which is important to note for any biases and specific observations that were made. The questions were adapted from the test and get feedback worksheet and are as follows. 
 
 * What worked?
-	*What was exciting?
-	*What did you value the most?
-	*What resonated about the idea?
-*What didn’t work?
-	*What would you change?
-	*What suggestions do you have for improvement?
-	*What would make it better?
-*What questions came up?
-	*What needs further investigation?
-	*What made you curious
-*What new inspiration arose?
-	*What surprised you?
+	* What was exciting?
+	* What did you value the most?
+	* What resonated about the idea?
+* What didn’t work?
+	* What would you change?
+	* What suggestions do you have for improvement?
+	* What would make it better?
+* What questions came up?
+	* What needs further investigation?
+	* What made you curious
+* What new inspiration arose?
+	* What surprised you?
 
 The way these interviews were conducted played into sporadic responses were. Instead of one on one interviews, the results from my primary interviews were a summary as everyone spoke together. They are as follows:
 
