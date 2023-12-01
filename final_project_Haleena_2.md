@@ -41,10 +41,10 @@ Based upon this feedback, I changed many things for another draft that slightly 
 *My new interview script
 	*This script would mirror my previous interview questions
 
-Below is my updated visualization where I changed
+Below is my updated visualization where I only utilized 3 out of the 4 original visualizations that I had to keep it concise and around a minute. I will note what I changed on an individual level underneath each visual and note each part of the story. Instead of using Shorthand for my initial draft, I used screenshot from a powerpoint with my ideas. This will mimic what I hope to incorporate into Shorthand. 
 
-<img width="242" alt="Screenshot 2023-11-30 at 10 52 03 PM" src="https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/5a0c61d5-287a-402d-a460-3306a5bddbf5">
-
+<img width="1039" alt="Screenshot 2023-12-01 at 4 02 07 PM" src="https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/3de139c1-ed6e-4b1f-9d5c-252d7c988400">
+From the feedback that I received, I focused on what didn’t work initially. The lure did not work per my feedback so I decided to change the focus of the story. The intended audience will be the demographics of parents and/ or grandparents who are 25+ so I hope to draw in most of the class’ attention with that change. This was done by changing the title from ‘The United States Reliance on International Drug Manufacturers Only Hurts Itself’ which was broad to ‘Generational Rx: How America’s Global Drug Reliance Harms Our Elders.’ In doing this, the topic is more pointed and gives insight to who my intended audience is. 
 
 
 | What Worked | What Didnt work | What Questions Came Up | What New Inspiration Arose |
