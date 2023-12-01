@@ -32,7 +32,19 @@ The way these interviews were conducted played into sporadic responses were. Ins
 |      |                  | Who is Your Audience?    |                  |
 
 
-I then conducted secondary interviews of a secondary draft that actually told a story instead of just showcasing data 
+Based upon this feedback, I changed many things for another draft that slightly mirrors what I plan to do in shorthand through sketches. I decided to initially focus my scope around the older generations and frame my presentation in a way that appeals to the intended audience's emotions. Based upon this initial feedback I was able to then answer these questions with a new scope in mind. 
+
+*The target audience you hope to reach with your story
+	*My intended audience will be demographics who have parents and/ or grandparents who are 45+.
+*My approach to identifying representative individuals to interview
+	* My approach to identifying individuals will be people who fall within my intended audience. They do not need to have any other specific background but it would be beneficial to find participants who care for their elders as I am relying on emotions to draw in my audience. To vet them, I would ask if their parents fall within the age range that I am trying to focus on. 
+*My new interview script
+	*This script would mirror my previous interview questions
+
+Below is my updated visualization where I changed
+
+<img width="242" alt="Screenshot 2023-11-30 at 10 52 03 PM" src="https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/5a0c61d5-287a-402d-a460-3306a5bddbf5">
+
 
 
 | What Worked | What Didnt work | What Questions Came Up | What New Inspiration Arose |
