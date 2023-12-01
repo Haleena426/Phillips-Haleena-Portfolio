@@ -34,12 +34,12 @@ The way these interviews were conducted played into sporadic responses were. Ins
 
 Based upon this feedback, I changed many things for another draft that slightly mirrors what I plan to do in shorthand through sketches. I decided to initially focus my scope around the older generations and frame my presentation in a way that appeals to the intended audience's emotions. Based upon this initial feedback I was able to then answer these questions with a new scope in mind. 
 
-*The target audience you hope to reach with your story
-	*My intended audience will be demographics who have parents and/ or grandparents who are 45+.
+* The target audience you hope to reach with your story
+	* My intended audience will be demographics who have parents and/ or grandparents who are 45+.
 *My approach to identifying representative individuals to interview
 	* My approach to identifying individuals will be people who fall within my intended audience. They do not need to have any other specific background but it would be beneficial to find participants who care for their elders as I am relying on emotions to draw in my audience. To vet them, I would ask if their parents fall within the age range that I am trying to focus on. 
 *My new interview script
-	*This script would mirror my previous interview questions
+	* This script would mirror my previous interview questions
 
 Below is my updated visualization where I only utilized 3 out of the 4 original visualizations that I had to keep it concise and around a minute. I will note what I changed on an individual level underneath each visual and note each part of the story. Instead of using Shorthand for my initial draft, I used screenshot from a powerpoint with my ideas. This will mimic what I hope to incorporate into Shorthand. 
 
