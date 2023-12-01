@@ -28,9 +28,9 @@ The way these interviews were conducted played into sporadic responses were. Ins
 
 | What Worked | What Didnt work | What Questions Came Up | What New Inspiration Arose |
 |------|------------------|------|------------------|
-|      |                  |      |                  |
-|      |                  |      |                  |
-|      |                  |      |                  |
+|The set up really worked. The interviewees were really interested in the topic and thought it was a good one  | The lure. The interviewees were not lured into the presentation but focused on it based on the small group we had.  |  Based upon your audience, why as a class should we care and engage with your presentation? | What surprised the interviewees were the existence of drug shortages. Because of this, the call to action was inspiring. |
+|      |                  | Who is Your Audience?    |                  |
+
 
 I then conducted secondary interviews of a secondary draft that actually told a story instead of just showcasing data 
 
