@@ -26,5 +26,17 @@ I utilized class time to work out my initial interviews to really draw in my sco
 
 The way these interviews were conducted played into sporadic responses were. Instead of one on one interviews, the results from my primary interviews were a summary as everyone spoke together. They are as follows:
 
+| What Worked | What Didnt work | What Questions Came Up | What New Inspiration Arose |
+|------|------------------|------|------------------|
+|      |                  |      |                  |
+|      |                  |      |                  |
+|      |                  |      |                  |
 
 I then conducted secondary interviews of a secondary draft that actually told a story instead of just showcasing data 
+
+
+| What Worked | What Didnt work | What Questions Came Up | What New Inspiration Arose |
+|------|------------------|------|------------------|
+|      |                  |      |                  |
+|      |                  |      |                  |
+|      |                  |      |                  |
