@@ -85,4 +85,6 @@ I was able to interview 3 men between the ages of 25-30. They all have parents a
 	* Based upon their feedback, I plan to really hone in my story in time for my minute presentation next week. There were some aspects that were not clear such as the call to action. I will make sure that I am clearly describing that the goal of the call to action is to educate our elders and encourage them to talk about their options with their healthcare provider when it comes to mitigating drug shortages. I think during my mock presentations, I relied too much on the graphic to tell the story without the added background. Based upon the question that came up surrounding if the sketches were my final graphics, I will make sure to do a digital version of the graphics to make sure they are cleaner. Additionally, I will be sure to write out any abbreviations on my graphics to make sure they are clear, based upon my feedback. The question was what are the full names and as someone who has a scientific background, I sometimes forget that these abbreviations may not be common knowledge to everyone even if they are to me.
 
  [Home Page](https://haleena426.github.io/Phillips-Haleena-Portfolio/)
+
+ 
 [Part 1 of Final Project](https://haleena426.github.io/Phillips-Haleena-Portfolio/final_project_Haleena.html)
