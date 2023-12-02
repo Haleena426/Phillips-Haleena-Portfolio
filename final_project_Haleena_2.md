@@ -62,7 +62,7 @@ The next slide in the shorthand will be this graph initially being shown the big
 This part of the story introduces the top 5 drug classes with shortages. What I hope to communicate are the adverse effects and the additional health care costs associated with these drug shortages and how unfair they are to our elders. From the feedback I rceived, I decided to focus more on the wy do we care aspect. To emphasize this, i focuse don the impact of these shortages by listing that ther are adverse ffects and the health costs associated with drug shortages. I am under the impression that people ages 45+ are thinking of retirement or are already retired. By putting on these addtional costs and having drug shortages be a detriment to their health, my audeince would care more about this. 
 
 <img width="1038" alt="Screenshot 2023-12-01 at 4 03 06 PM" src="https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/24fb76d9-230c-4e3e-9f58-b74a7c4a2fb6">
-
+My feedback on this tab did not necessarily come from an interview but from Professor Goranson himself. He noted that your call to actions should be hyperlinked if people want to learn more information about that specific topic. Due to the limitations of the sketches, I just noted that each of the sections would be hyperlinked when I wasa giving my mock presentation. This part of the story tells, as noted, the call to action which informs our elders of their options when it comes to mitigating drug shortages. I had to cut out the sample size but I think that when I make these graphics digital, Iw ill be sure to add it back to show how many healthcare providers utilize the certain options. 
 
 **Story Summary**
 
