@@ -59,7 +59,7 @@ The next slide in the shorthand will be this graph initially being shown the big
 
 
 <img width="1042" alt="Screenshot 2023-12-01 at 4 02 55 PM" src="https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/366b81b9-5610-46d8-9696-24944280ddcb">
-This part of the story introduces the top 5 drug classes with shortages. What I hope to communicate 
+This part of the story introduces the top 5 drug classes with shortages. What I hope to communicate are the adverse effects and the additional health care costs associated with these drug shortages and how unfair they are to our elders. From the feedback I rceived, I decided to focus more on the wy do we care aspect. To emphasize this, i focuse don the impact of these shortages by listing that ther are adverse ffects and the health costs associated with drug shortages. I am under the impression that people ages 45+ are thinking of retirement or are already retired. By putting on these addtional costs and having drug shortages be a detriment to their health, my audeince would care more about this. 
 
 <img width="1038" alt="Screenshot 2023-12-01 at 4 03 06 PM" src="https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/24fb76d9-230c-4e3e-9f58-b74a7c4a2fb6">
 
@@ -75,10 +75,12 @@ I was able to interview 3 men between the ages of 25-30. They all have parents a
 
 | What Worked | What Didnt work | What Questions Came Up | What New Inspiration Arose |
 |------|------------------|------|------------------|
-|    Problem statement and conflict very clear  | unclear on the options for call to action, make sure this is emphasized | What are the full names of the drugs on the bar chart?  |                  |
-| Visuals were nice | the lure was not explicit | the call to action is not clear, what happens after I inform my elders |                  |
-| Visuals made sense and were straight to the point | Everything was fine |      |                  |
+|    Problem statement and conflict very clear  | unclear on the options for call to action, make sure this is emphasized | What are the full names of the drugs on the bar chart?  |   Keeping their elders in the loop  |
+| Visuals were nice | the lure was not explicit | the call to action is not clear, what happens after I inform my elders |  Empahsizing adverse health effects to their elders  |
+| Visuals made sense and were straight to the point | Everything was fine | Are these skethces the final photos?  |                  |
 
 
 * Changes I plan on implementing to your visualizations next week to address the issues identified. 
-	* Based upon their feedback, I plan to really hone in my story in time for my minute presentation next week. There were some aspects that were not clear such as the call to action. I will make sure that I am clearly describing that the goal of the call to action is to educate our elders and encourage them to talk about their options with their healthcare provider when it comes to mitigating drug shortages. I think during my mock presentations, I relied too much on the graphic to tell the story without the added background. 
+	* Based upon their feedback, I plan to really hone in my story in time for my minute presentation next week. There were some aspects that were not clear such as the call to action. I will make sure that I am clearly describing that the goal of the call to action is to educate our elders and encourage them to talk about their options with their healthcare provider when it comes to mitigating drug shortages. I think during my mock presentations, I relied too much on the graphic to tell the story without the added background. Based upon the question that came up surrounding if the sketches were my final graphics, I will make sure to do a digital version of the graphics to make sure they are cleaner. Additionally, I will be sure to write out any abbreviations on my graphics to make sure they are clear, based upon my feedback. The question was what are the full names and as someone who has a scientific background, I sometimes forget that these abbreviations may not be common knowledge to everyone even if they are to me.
+
+ [Home Page](https://haleena426.github.io/Phillips-Haleena-Portfolio/)
