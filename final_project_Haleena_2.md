@@ -59,21 +59,26 @@ The next slide in the shorthand will be this graph initially being shown the big
 
 
 <img width="1042" alt="Screenshot 2023-12-01 at 4 02 55 PM" src="https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/366b81b9-5610-46d8-9696-24944280ddcb">
-This part of the story introduces the top 5 
+This part of the story introduces the top 5 drug classes with shortages. What I hope to communicate 
 
 <img width="1038" alt="Screenshot 2023-12-01 at 4 03 06 PM" src="https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/24fb76d9-230c-4e3e-9f58-b74a7c4a2fb6">
 
 
+**Story Summary**
+
+Based upon my previous analysis, I wanted to describe my story in laymans terms and provide a snippet of what I hope to communicate to my audience for my presentation. The U.S reliance on international drug manufacturers leaves the older American population, who rely on these drugs, vulnerable. This is because drug shortages disproportionately  affect those ages 45+ and puts your (my intended audience) loved ones at risk. The top 5 drug classes that are in shortage can cause adverse health effects and drive up unnecessary health related costs. Based upon America’s actions, that are out of our control, it is necessary for us (intended audience) to help our elders know their options when it comes to mitigating this issue. The majority (87%) of healthcare providers utilize therapeutic alternatives as an alternative to the drug shortage. Our elders should be encouraged to talk to their healthcare providers about their options but it is imperative to educate them. 
+
 **Interview Responses**
 
-I was able to interview 3 people….
-
-* Changes I plan on implementing to your visualizations next week to address the issues identified. 
-	* Based upon their feedback, this is what I plan to change in time for my minute presentation next week
+I was able to interview 3 men between the ages of 25-30. They all have parents and grandparents that are 45+ and two out of three of them were not in school. I purposefully did that in order to see if there was a difference between what my classmates who are currently enrolled in the Telling Stories with Data class versus nonacademics/ people who were not enrolled. This ensured that my intended audeince would be able to understand my soty in and out of the classroom. 
 
 
 | What Worked | What Didnt work | What Questions Came Up | What New Inspiration Arose |
 |------|------------------|------|------------------|
-|    Problem statement and conflict very clear  | unclear on the options for call to action, make sure this is emphasized |      |                  |
+|    Problem statement and conflict very clear  | unclear on the options for call to action, make sure this is emphasized | What are the full names of the drugs on the bar chart?  |                  |
 | Visuals were nice | the lure was not explicit | the call to action is not clear, what happens after I inform my elders |                  |
 | Visuals made sense and were straight to the point | Everything was fine |      |                  |
+
+
+* Changes I plan on implementing to your visualizations next week to address the issues identified. 
+	* Based upon their feedback, I plan to really hone in my story in time for my minute presentation next week. There were some aspects that were not clear such as the call to action. I will make sure that I am clearly describing that the goal of the call to action is to educate our elders and encourage them to talk about their options with their healthcare provider when it comes to mitigating drug shortages. I think during my mock presentations, I relied too much on the graphic to tell the story without the added background. 
