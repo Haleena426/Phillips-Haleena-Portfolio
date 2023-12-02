@@ -48,12 +48,18 @@ Below is my updated visualization where I only utilized 3 out of the 4 original 
 From the feedback that I received, I focused on what didn’t work initially. The lure did not work per my feedback so I decided to change the focus of the story. The intended audience will be the demographics of parents and/ or grandparents who are 25+ so I hope to draw in most of the class’ attention with that change. This was done by changing the title from ‘The United States Reliance on International Drug Manufacturers Only Hurts Itself’ which was broad to ‘Generational Rx: How America’s Global Drug Reliance Harms Our Elders.’ In doing this, the topic is more pointed and gives insight to who my intended audience is. The image is copyrighted so I will have to change it but this is the gist. 
 
 
+
 <img width="1040" alt="Screenshot 2023-12-01 at 4 02 16 PM" src="https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/5190063e-38cf-4df2-8fc1-c1c032efc068">
 As we continue the hypothetical scroll down shorthand, the next slide consists of a reimagined visualization. A question that an interviewee asked that I didnt note was "how do you think you are going to fit all of this into a minute." I left this out because I didnt beleive that it fell into any of the categories as my intended goal with my first visualizations was to telll a story and not necessarily keep it under a minute. WIth my changed scope in mind, I realized that my inital pie chart visualization titled 'Reasons for Drug Shortages,' that can be found above, was not something that was imperative for the audience to see but was worth mentioning. Therefore, I beleived a line would suffice. This part of the story says exactly what I am trying to say; 80% of the active ingredients found in U.S drugs are made internationally and because of that, when there are problems with the manufacturing sites, it is out of the U.S' control and leads to drug shortages. 
 
 
+
 <img width="1040" alt="Screenshot 2023-12-01 at 4 02 25 PM" src="https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/e5c55427-1b05-4319-ba1b-e4abeca05e23">
-The next slide in the shorthand will be this graph initially being shown the biger picture with all of the data (left) transitioning to the data of focus on the right with the specific age groups 45+. I decided to do this based upon the feedback "why do I care about this." I thought this was extremely valid  
+The next slide in the shorthand will be this graph initially being shown the biger picture with all of the data (left) transitioning to the data of focus on the right with the specific age groups 45+. I decided to do this based upon the feedback "why do I care about this." I thought this was an extremely valid response and decided to input information from < 45 years of age. This will put things into perspective for my audience as the biggest range of ages still does not measure to > 45. This part of the story states exactly that but I plan to emphasize that my intended audience's elders are disproportionaltely affected by drug shortages. Hopefully this will solve the problem of the lure by appealing to my audience's emotions while showing why they should care about this topic. 
+
+
+<img width="1042" alt="Screenshot 2023-12-01 at 4 02 55 PM" src="https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/366b81b9-5610-46d8-9696-24944280ddcb">
+This part of the story introduces the top 5 
 
 
 | What Worked | What Didnt work | What Questions Came Up | What New Inspiration Arose |
