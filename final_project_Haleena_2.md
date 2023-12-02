@@ -61,9 +61,19 @@ The next slide in the shorthand will be this graph initially being shown the big
 <img width="1042" alt="Screenshot 2023-12-01 at 4 02 55 PM" src="https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/366b81b9-5610-46d8-9696-24944280ddcb">
 This part of the story introduces the top 5 
 
+<img width="1038" alt="Screenshot 2023-12-01 at 4 03 06 PM" src="https://github.com/Haleena426/Phillips-Haleena-Portfolio/assets/149639567/24fb76d9-230c-4e3e-9f58-b74a7c4a2fb6">
+
+
+**Interview Responses**
+
+I was able to interview 3 people….
+
+* Changes I plan on implementing to your visualizations next week to address the issues identified. 
+	* Based upon their feedback, this is what I plan to change in time for my minute presentation next week
+
 
 | What Worked | What Didnt work | What Questions Came Up | What New Inspiration Arose |
 |------|------------------|------|------------------|
-|      |                  |      |                  |
-|      |                  |      |                  |
-|      |                  |      |                  |
+|    Problem statement and conflict very clear  | unclear on the options for call to action, make sure this is emphasized |      |                  |
+| Visuals were nice | the lure was not explicit | the call to action is not clear, what happens after I inform my elders |                  |
+| Visuals made sense and were straight to the point | Everything was fine |      |                  |
