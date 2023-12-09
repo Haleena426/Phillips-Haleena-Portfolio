@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](https://haleena426.github.io/Phillips-Haleena-Portfolio/assignment2.html) | [critique by design](https://haleena426.github.io/Phillips-Haleena-Portfolio/assignment3.html) | [final project I](https://haleena426.github.io/Phillips-Haleena-Portfolio/final_project_Haleena.html)| [final project II](https://haleena426.github.io/Phillips-Haleena-Portfolio/final_project_Haleena_2.html) | [final project III](final-project-part-three) |
+| [[home page](https://cmustudent.github.io/tswd-portfolio-templates/) ](https://haleena426.github.io/Phillips-Haleena-Portfolio/)| [visualizing debt](https://haleena426.github.io/Phillips-Haleena-Portfolio/assignment2.html) | [critique by design](https://haleena426.github.io/Phillips-Haleena-Portfolio/assignment3.html) | [final project I](https://haleena426.github.io/Phillips-Haleena-Portfolio/final_project_Haleena.html)| [final project II](https://haleena426.github.io/Phillips-Haleena-Portfolio/final_project_Haleena_2.html) | [final project III](final-project-part-three) |
 
 
 # Portfolio
