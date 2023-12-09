@@ -1,3 +1,5 @@
+# Final Part 1
+
 # Outline
 
 My topic for this project surrounds drug shortages in the United States. Before going into the specific details of the proposal, I thought the exercise we did in class was extremely helpful in making my project more concise and I shared that below to provide a background on the origins of the outline. 
@@ -75,3 +77,5 @@ The links are from two main websites IQVIA which is a data source/ database that
 # Method and Medium 
 
 To represent how my project will be completed, I will utilize Shorthand. I really like how you can tell a story with the data in shorthand and make it come alive. I plan to use the effects that have my facts and write up on one side of the page while having my data on the right hand side. As I scroll down and show the words, the corresponding charts and graphs will appear. If this isn't feasible, I plan to use canva as a powerpoint structure. 
+
+[Home Page](https://haleena426.github.io/Phillips-Haleena-Portfolio/)
