@@ -39,11 +39,12 @@ This section is self explanatory as it comes right after the wants. The way the 
 
 I can do this by maintaining open communication with my healthcare provider so that I can stay informed and be prepared for any shortages. 
 
-I then thought of how I could inciorporate graphics into this presentation and through research, I was able in to hone in repetitive information that many sources spewed leading me to beleive that it was important or necessary to note when speaking on drug shortages. The specific graphics can be found in [Final Project Part 2]
+I then thought of how I could inciorporate graphics into this presentation and through research, I was able in to hone in repetitive information that many sources spewed leading me to beleive that it was important or necessary to note when speaking on drug shortages. The specific graphics can be found in [Final Project Part 2](https://haleena426.github.io/Phillips-Haleena-Portfolio/final_project_Haleena_2.html)
 
 In Part 2, I continued to refine my story through interveiws. I wanted to make sure what I wanted to communicate was effectively being told. I did two rounds of presentations. The first round involved individuals from the Telling Stories with Data Course and this was helpful in the way we were around the same skill set level and were able to provide me with feedback people outside of the class may not have been able to. This included color scheme, visualization type, and most importantly audience. After this round of interviews, I decided to change my scope from people who took drugs to people with an emotional investment with people whose quality of life will decrease becuase they dont get their necessary drugs. This would ensure the engagement that I am looking for. For my second round of interviews, I interveiwed people who were not in school to ensure that my audeince outside of the classroom would also be able to interpret and get something out of my presentation. With their feedback, I was able to note that my call to action was not as clear. Initially it was just providing the facts and data but from my interviews I consistenly received feedback on what specifically did I want my audeience to do for the next steps. This made me be explicit in my final presrentation. The links for my final shorthand pressentation can be found at the start of the page. 
 
 #Works Cited
+
 https://aspe.hhs.gov/reports/drug-shortages-impacts-consumer-costs#:~:text=The%20average%20drug%20shortage%20affects,ability%20to%20fill%20their%20prescriptions.
 
 https://www.ashp.org/-/media/assets/drug-shortages/docs/ASHP-2023-Drug-Shortages-Survey-Report.pdf
@@ -51,6 +52,6 @@ https://www.ashp.org/-/media/assets/drug-shortages/docs/ASHP-2023-Drug-Shortages
 
 Visit Final Project Part 1
 
-Visit Final Project Part 2
+[Visit Final Project Part 2](https://haleena426.github.io/Phillips-Haleena-Portfolio/final_project_Haleena_2.html)
 
 Home Page
