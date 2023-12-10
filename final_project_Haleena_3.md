@@ -57,6 +57,8 @@ https://www.ashp.org/-/media/assets/drug-shortages/docs/ASHP-2023-Drug-Shortages
 
 https://www.ashp.org/drug-shortages/shortage-resources/drug-shortages-statistics?loginreturnUrl=SSOCheckOnly
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6181678/#:~:text=Growing%20Public%20Health%20and%20Patient%20Care%20Problem&text=Drugs%20in%20short%20supply%20such,threaten%20patients%27%20wellbeing%20and%20comfort.&text=Shortages%20of%20some%20chemotherapies%2C%20antibiotics,conditions%20may%20endanger%20patients%27%20lives.
+
 
 [Visit Final Project Part 1](https://haleena426.github.io/Phillips-Haleena-Portfolio/final_project_Haleena.html)
 
