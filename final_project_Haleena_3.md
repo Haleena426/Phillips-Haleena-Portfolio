@@ -1,8 +1,8 @@
 # Final Project Part 3
 
-My shorthand 1 minute presentation can be found here
+My shorthand 1 minute presentation can be [found here](https://carnegiemellon.shorthandstories.com/generational-rx/index.html)
 
-My final shorthand presentation can be found here
+My final shorthand presentation can be [found here](https://carnegiemellon.shorthandstories.com/final-generational-rx/index.html)
 
 # What I changed for the FInal Presentation 
 
