@@ -1,4 +1,4 @@
-| [home page](https://haleena426.github.io/Phillips-Haleena-Portfolio/)| [visualizing debt](https://haleena426.github.io/Phillips-Haleena-Portfolio/assignment2.html) | [critique by design](https://haleena426.github.io/Phillips-Haleena-Portfolio/assignment3.html) | [final project I](https://haleena426.github.io/Phillips-Haleena-Portfolio/final_project_Haleena.html)| [final project II](https://haleena426.github.io/Phillips-Haleena-Portfolio/final_project_Haleena_2.html) | [final project III](final-project-part-three) |
+| [home page](https://haleena426.github.io/Phillips-Haleena-Portfolio/)| [visualizing debt](https://haleena426.github.io/Phillips-Haleena-Portfolio/assignment2.html) | [critique by design](https://haleena426.github.io/Phillips-Haleena-Portfolio/assignment3.html) | [final project I](https://haleena426.github.io/Phillips-Haleena-Portfolio/final_project_Haleena.html)| [final project II](https://haleena426.github.io/Phillips-Haleena-Portfolio/final_project_Haleena_2.html) | [final project III](https://haleena426.github.io/Phillips-Haleena-Portfolio/final_project_Haleena_3.html) |
 
 
 # Portfolio
@@ -17,4 +17,5 @@ Here is where all my cool work will go, you should follow along. The assignments
 * [Assignment 3 & 4: Critique By Design with Tableau (Makeover Monday)](https://haleena426.github.io/Phillips-Haleena-Portfolio/assignment3.html)
 * [Final Project Part 1](https://haleena426.github.io/Phillips-Haleena-Portfolio/final_project_Haleena.html)
 * [Final Project Part 2](https://haleena426.github.io/Phillips-Haleena-Portfolio/final_project_Haleena_2.html)
+* [Final project 3](https://haleena426.github.io/Phillips-Haleena-Portfolio/final_project_Haleena_3.html)
 * & so much more!
